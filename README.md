@@ -5,13 +5,6 @@ This Java program implements a simple command-line version of the classic game T
 Setup: The game starts with an empty 3x3 grid.
 Players: Two players take turns marking empty cells with their symbols. Player 1 uses "X" and Player 2 uses "O".
 Gameplay: Players input the number of the cell they want to mark. The cell numbers correspond to the grid as follows:
-
-1 | 2 | 3
----------
-4 | 5 | 6
----------
-7 | 8 | 9
-
 Winning: The game ends when one player successfully forms a line of their symbols horizontally, vertically, or diagonally, or when the grid is completely filled without a winner (a tie).
 Restart: To play again, simply rerun the program.
 
